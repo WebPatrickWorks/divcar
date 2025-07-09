@@ -44927,7 +44927,7 @@ case 2:return A.u(o.at(-1),r)}})
 return A.w($async$oG,r)},
 ao(){this.aF()
 this.d.Y(0,new A.atE(this))},
-H(a){var s,r,q=this,p=null,o=A.ky(p,p,B.a_g),n=q.cx,m=q.CW,l=A.a1(m).i("aa<1,fQ<k>>")
+H(a){var s,r,q=this,p=null,o=A.ky(p,p,B.a_f),n=q.cx,m=q.CW,l=A.a1(m).i("aa<1,fQ<k>>")
 m=A.a0(new A.aa(m,new A.aty(),l),l.i("au.E"))
 l=t.N
 s=t.p
@@ -45209,9 +45209,9 @@ H(a){var s,r,q=null,p=$.bC().b
 p===$&&A.a()
 p=p.gcE().c
 s=p==null?q:p.r
-p=A.ky(q,q,B.a_1)
-r=A.b([A.hp(!1,q,q,q,!0,q,q,!0,q,B.hK,q,new A.a64(a),!1,q,q,q,q,q,B.Cf,q,q),A.hp(!1,q,q,q,!0,q,q,!0,q,B.Kt,q,new A.a65(s,a),!1,q,q,q,q,q,B.Cj,q,q),A.hp(!1,q,q,q,!0,q,q,!0,q,B.Kl,q,new A.a66(a),!1,q,q,q,q,q,B.Cd,q,q),A.hp(!1,q,q,q,!0,q,q,!0,q,A.qJ(B.JT,q,q,q),q,new A.a67(a,s),!1,q,q,q,q,q,A.bk("Minhas Conversas",q,q,q,q,q,q),q,q),A.hp(!1,q,q,q,!0,q,q,!0,q,B.Kd,q,new A.a68(a),!1,q,q,q,q,q,B.a_k,q,q),B.oG],t.p)
-if(s==null)r.push(A.hp(!1,q,q,q,!0,q,q,!0,q,B.po,q,new A.a69(a),!1,q,q,q,q,q,B.a_e,q,q))
+p=A.ky(q,q,B.a_0)
+r=A.b([A.hp(!1,q,q,q,!0,q,q,!0,q,B.hK,q,new A.a64(a),!1,q,q,q,q,q,B.Cf,q,q),A.hp(!1,q,q,q,!0,q,q,!0,q,B.Kt,q,new A.a65(s,a),!1,q,q,q,q,q,B.Cj,q,q),A.hp(!1,q,q,q,!0,q,q,!0,q,B.Kl,q,new A.a66(a),!1,q,q,q,q,q,B.Cd,q,q),A.hp(!1,q,q,q,!0,q,q,!0,q,A.qJ(B.JT,q,q,q),q,new A.a67(a,s),!1,q,q,q,q,q,A.bk("Minhas Conversas",q,q,q,q,q,q),q,q),A.hp(!1,q,q,q,!0,q,q,!0,q,B.Kd,q,new A.a68(a),!1,q,q,q,q,q,B.a_j,q,q),B.oG],t.p)
+if(s==null)r.push(A.hp(!1,q,q,q,!0,q,q,!0,q,B.po,q,new A.a69(a),!1,q,q,q,q,q,B.a_d,q,q))
 return A.ie(p,q,A.adi(r,q,q,!1),q,q,q)}}
 A.a64.prototype={
 $0(){var s=$.bC().b
@@ -45269,7 +45269,7 @@ A.aJW(new A.a6_(s),s,t.z)},
 $S:0}
 A.a6_.prototype={
 $1(a){var s=null
-return A.aGI(A.b([A.x2(!1,B.a_S,s,s,s,s,s,s,new A.a5Y(this.a),s,s)],t.p),B.ZX,B.a_I)},
+return A.aGI(A.b([A.x2(!1,B.a_S,s,s,s,s,s,s,new A.a5Y(this.a),s,s)],t.p),B.a_l,B.a_I)},
 $S:129}
 A.a5Y.prototype={
 $0(){A.bT(this.a,!1).f3(null)
@@ -45345,7 +45345,7 @@ a9T(a){var s="foto_perfil_url",r=null,q=J.a8(a),p=q.h(a,s)!=null?new A.mh(q.h(a,
 p=A.aLu(p,q.h(a,s)==null?B.hK:r,24)
 if(J.d(q.h(a,"mostrar_nome"),!0)){q=q.h(a,"nome_exibicao")
 q=A.bk(q==null?"Usu\xe1rio":q,r,r,r,r,r,r)}else q=B.a_w
-return A.eD(A.b([B.a_4,B.cL,A.hp(!1,r,r,r,!0,r,r,!0,r,p,r,r,!1,r,r,r,r,r,q,A.nM(B.Kg,B.a_i,new A.av_(this,a),r),r)],t.p),B.bk,B.P,B.a5)},
+return A.eD(A.b([B.a_3,B.cL,A.hp(!1,r,r,r,!0,r,r,!0,r,p,r,r,!1,r,r,r,r,r,q,A.nM(B.Kg,B.a_h,new A.av_(this,a),r),r)],t.p),B.bk,B.P,B.a5)},
 aiR(a){var s,r="whatsapp",q="email_alternativo",p="instagram",o=A.b([],t.m0),n=J.a8(a)
 if(J.d(n.h(a,"mostrar_whatsapp"),!0)&&n.h(a,r)!=null){s=t.N
 o.push(A.Z(["WhatsApp",n.h(a,r)],s,s))}if(J.d(n.h(a,"mostrar_email"),!0)&&n.h(a,q)!=null){s=t.N
@@ -45409,7 +45409,7 @@ $0(){return this.a.aiR(this.b)},
 $S:0}
 A.av5.prototype={
 $1(a){var s,r,q,p=null,o=this.a,n=A.b([B.a_D,B.ec,A.hp(!1,p,p,p,!0,p,p,!0,p,B.Kf,p,new A.av3(o),!1,p,p,p,p,p,B.Ci,p,p)],t.p),m=this.b
-if(m.length===0)n.push(B.a_f)
+if(m.length===0)n.push(B.a_e)
 for(s=m.length,r=0;r<m.length;m.length===s||(0,A.K)(m),++r){q=m[r]
 n.push(A.hp(!1,p,p,p,!0,p,p,!0,p,B.Kw,p,new A.av4(o,q),!1,p,p,p,p,p,A.bk(A.l(q.gbZ(0).ga2(0))+": "+A.l(q.gel(0).ga2(0)),p,p,p,p,p,p),p,p))}return new A.bs(B.d1,A.eD(n,B.V,B.P,B.bO),p)},
 $S:292}
@@ -45596,7 +45596,7 @@ break
 case 5:return A.v(null,r)
 case 1:return A.u(p.at(-1),r)}})
 return A.w($async$oE,r)},
-H(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="destaque",f=A.ky(h,h,B.a_a),e=i.ay,d=i.ax,c=A.a1(d).i("aa<1,fQ<k>>")
+H(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="destaque",f=A.ky(h,h,B.a_9),e=i.ay,d=i.ax,c=A.a1(d).i("aa<1,fQ<k>>")
 d=A.a0(new A.aa(d,new A.avN(),c),c.i("au.E"))
 c=t.N
 e=A.a7v(B.pt,d,new A.avO(i),e,c)
@@ -45625,7 +45625,7 @@ r.push(A.a7v(B.ps,d,new A.avQ(i),e,c))
 r.push(B.cL)
 r.push(A.fg(A.b([A.aLr(new A.avR(i),i.as),B.Ch],q),B.V,B.P,B.a5))
 r.push(B.cL)
-r.push(A.nM(B.pj,B.a_c,i.ga2U(),h))
+r.push(A.nM(B.pj,B.a_b,i.ga2U(),h))
 r.push(B.cL)
 e=A.b([],q)
 for(d=i.CW,c=d.length,s=t.E,p=0;p<d.length;d.length===c||(0,A.K)(d),++p){o=d[p]
@@ -45727,7 +45727,7 @@ return A.w($async$$0,r)},
 $S:8}
 A.avI.prototype={
 $1(a){var s=null,r=this.a
-return A.aGI(A.b([A.x2(!1,B.Cg,s,s,s,s,s,s,new A.avG(r),s,s),A.aHm(!1,B.a_t,s,s,s,s,s,s,new A.avH(r),s,s)],t.p),B.a_6,B.a_0)},
+return A.aGI(A.b([A.x2(!1,B.Cg,s,s,s,s,s,s,new A.avG(r),s,s),A.aHm(!1,B.a_t,s,s,s,s,s,s,new A.avH(r),s,s)],t.p),B.a_5,B.a__)},
 $S:129}
 A.avG.prototype={
 $0(){A.bT(this.a,!1).f3(!1)
@@ -46068,7 +46068,7 @@ case 2:return A.u(o.at(-1),r)}})
 return A.w($async$xy,r)},
 H(a){var s=null
 A.cf(a,s,t.w).toString
-return A.ie(s,s,A.ej(A.wL(A.eD(A.b([A.aHH("lib/assets/logo_divcar.png",98),B.cM,A.dU(this.d,A.BS(s,new A.fv(4,A.dA(12),B.dA),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"E-mail",!0,!0,s,B.pn,s,s,s,s,s,s,s,s,s,s,s),s,s,B.mn,1,!1,s),B.ec,A.dU(this.e,A.BS(s,new A.fv(4,A.dA(12),B.dA),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Senha",!0,!0,s,B.pk,s,s,s,s,s,s,s,s,s,s,s),s,s,s,1,!0,s),B.cM,A.dZ(A.nM(B.po,B.a_2,this.gavw(),A.aHn(s,s,s,s,s,s,s,s,s,s,s,s,B.oK,s,new A.cR(A.dA(12),B.q),s,s,s,s,s)),s,1/0),B.BK,A.x2(!1,B.a_H,s,s,s,s,s,s,new A.ayC(a),s,s),A.aOK(B.K8,B.a__,new A.ayD(a))],t.p),B.V,B.i0,B.a5),B.kl,B.ae),s,s),s,s,s)}}
+return A.ie(s,s,A.ej(A.wL(A.eD(A.b([A.aHH("lib/assets/logo_divcar.png",98),B.cM,A.dU(this.d,A.BS(s,new A.fv(4,A.dA(12),B.dA),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"E-mail",!0,!0,s,B.pn,s,s,s,s,s,s,s,s,s,s,s),s,s,B.mn,1,!1,s),B.ec,A.dU(this.e,A.BS(s,new A.fv(4,A.dA(12),B.dA),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Senha",!0,!0,s,B.pk,s,s,s,s,s,s,s,s,s,s,s),s,s,s,1,!0,s),B.cM,A.dZ(A.nM(B.po,B.a_1,this.gavw(),A.aHn(s,s,s,s,s,s,s,s,s,s,s,s,B.oK,s,new A.cR(A.dA(12),B.q),s,s,s,s,s)),s,1/0),B.BK,A.x2(!1,B.a_H,s,s,s,s,s,s,new A.ayC(a),s,s),A.aOK(B.K8,B.ZZ,new A.ayD(a))],t.p),B.V,B.i0,B.a5),B.kl,B.ae),s,s),s,s,s)}}
 A.ayE.prototype={
 $1(a){return B.RN},
 $S:336}
@@ -46448,7 +46448,7 @@ s=A.ky(n,n,B.Cf)
 r=o.ay
 q=r!=null
 p=q&&r.length!==0?new A.mh(r,1,n,B.iZ):n
-return A.ie(s,n,A.adi(A.b([A.ej(A.iH(n,A.aLu(p,!q||r.length===0?B.Kv:n,50),B.a7,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,o.gams(),n,n,n,n,n,n),n,n),B.ec,A.bk("E-mail: "+A.l(m.z),n,n,n,B.cN,n,n),B.cM,A.dU(o.e,B.L_,n,n,n,1,!1,n),A.dU(o.f,B.L0,n,n,n,1,!1,n),A.dU(o.r,B.L2,n,n,n,1,!1,n),A.dU(o.w,B.KZ,n,n,n,1,!1,n),A.dU(o.x,B.L4,n,n,n,1,!1,n),B.ec,B.a_j,A.T0(new A.azR(o),B.ZW,o.y),A.T0(new A.azS(o),B.a_d,o.z),A.T0(new A.azT(o),B.a_8,o.Q),A.T0(new A.azU(o),B.a_U,o.as),A.T0(new A.azV(o),B.a_O,o.at),B.cM,A.nM(B.pm,B.a_Q,o.gam0(),n),B.cM,A.nM(B.Kh,B.a_b,new A.azW(a),A.aHn(n,n,B.i4,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n))],t.p),B.d1,n,!1),n,n,n)}}
+return A.ie(s,n,A.adi(A.b([A.ej(A.iH(n,A.aLu(p,!q||r.length===0?B.Kv:n,50),B.a7,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,o.gams(),n,n,n,n,n,n),n,n),B.ec,A.bk("E-mail: "+A.l(m.z),n,n,n,B.cN,n,n),B.cM,A.dU(o.e,B.L_,n,n,n,1,!1,n),A.dU(o.f,B.L0,n,n,n,1,!1,n),A.dU(o.r,B.L2,n,n,n,1,!1,n),A.dU(o.w,B.KZ,n,n,n,1,!1,n),A.dU(o.x,B.L4,n,n,n,1,!1,n),B.ec,B.a_i,A.T0(new A.azR(o),B.ZW,o.y),A.T0(new A.azS(o),B.a_c,o.z),A.T0(new A.azT(o),B.a_7,o.Q),A.T0(new A.azU(o),B.a_U,o.as),A.T0(new A.azV(o),B.a_O,o.at),B.cM,A.nM(B.pm,B.a_Q,o.gam0(),n),B.cM,A.nM(B.Kh,B.a_a,new A.azW(a),A.aHn(n,n,B.i4,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n))],t.p),B.d1,n,!1),n,n,n)}}
 A.azI.prototype={
 $0(){var s=this.a,r=this.b,q=J.a8(r),p=q.h(r,"nome_exibicao")
 if(p==null)p=""
@@ -46573,7 +46573,7 @@ break
 case 6:case 1:return A.v(q,r)
 case 2:return A.u(o.at(-1),r)}})
 return A.w($async$yG,r)},
-H(a){var s=null,r=A.ky(s,s,B.a_9),q=A.dU(this.d,B.L3,s,s,s,1,!1,s),p=this.e,o=p?s:this.ga2C(),n=p?B.BJ:B.pm
+H(a){var s=null,r=A.ky(s,s,B.a_8),q=A.dU(this.d,B.L3,s,s,s,1,!1,s),p=this.e,o=p?s:this.ga2C(),n=p?B.BJ:B.pm
 return A.ie(r,s,new A.bs(B.IT,A.eD(A.b([q,B.cM,A.nM(n,A.bk(p?"Salvando...":"Salvar e continuar",s,s,s,s,s,s),o,s)],t.p),B.V,B.P,B.a5),s),s,s,s)}}
 A.aAk.prototype={
 $0(){return this.a.e=!0},
@@ -104919,8 +104919,8 @@ B.FF=new A.pS(null)
 B.nH=new A.Mg(0,"rear")
 B.FG=new A.Mg(1,"front")
 B.FK=new A.ut(null,null,null,null,null,null,null)
-B.a_h=new A.aV("Nenhuma conversa encontrada.",null,null,null,null,null,null,null,null)
-B.FM=new A.hU(B.N,null,null,B.a_h,null)
+B.a_g=new A.aV("Nenhuma conversa encontrada.",null,null,null,null,null,null,null,null)
+B.FM=new A.hU(B.N,null,null,B.a_g,null)
 B.a_N=new A.aV("Voc\xea n\xe3o est\xe1 seguindo nenhum an\xfancio.",null,null,null,null,null,null,null,null)
 B.FN=new A.hU(B.N,null,null,B.a_N,null)
 B.a_y=new A.aV("Sem imagens dispon\xedveis.",null,null,null,null,null,null,null,null)
@@ -104928,8 +104928,8 @@ B.FO=new A.hU(B.N,null,null,B.a_y,null)
 B.a3j=new A.arA(0,"material")
 B.jH=new A.jy(null,null,null,null,null,null,null,null,null,null)
 B.eC=new A.hU(B.N,null,null,B.jH,null)
-B.ZZ=new A.aV("Nenhum an\xfancio encontrado.",null,null,null,null,null,null,null,null)
-B.FP=new A.hU(B.N,null,null,B.ZZ,null)
+B.ZY=new A.aV("Nenhum an\xfancio encontrado.",null,null,null,null,null,null,null,null)
+B.FP=new A.hU(B.N,null,null,B.ZY,null)
 B.jC=new A.fn(0,"close")
 B.jD=new A.fn(1,"error")
 B.nI=new A.fn(2,"join")
@@ -105647,8 +105647,8 @@ B.lo=new A.l2(B.Pp,1,1,0.596078431372549,0,B.e)
 B.Kb=new A.c5(B.JW,null,B.lo,null,null)
 B.BH=new A.ee(10,null,null,null)
 B.W9=new A.r(!0,B.lo,null,null,null,null,null,B.bt,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a_l=new A.aV("Este an\xfancio est\xe1 pausado.",null,B.W9,null,null,null,null,null,null)
-B.J2=new A.Be(1,B.kS,B.a_l,null)
+B.a_k=new A.aV("Este an\xfancio est\xe1 pausado.",null,B.W9,null,null,null,null,null,null)
+B.J2=new A.Be(1,B.kS,B.a_k,null)
 B.Mo=A.b(s([B.Kb,B.BH,B.J2]),t.p)
 B.Mr=A.b(s([B.jv,B.jw]),A.aK("I<zL>"))
 B.Ja=new A.ql(0,"verified")
@@ -107270,10 +107270,10 @@ B.a_u=new A.aV("Conta criada com sucesso. Verifique seu e-mail.",null,null,null,
 B.UA=new A.et(B.a_u,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
 B.a_E=new A.aV("An\xfancio atualizado com sucesso!",null,null,null,null,null,null,null,null)
 B.UB=new A.et(B.a_E,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
-B.ZY=new A.aV("Erro ao enviar a foto",null,null,null,null,null,null,null,null)
-B.UC=new A.et(B.ZY,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
-B.a_3=new A.aV("Perfil atualizado com sucesso",null,null,null,null,null,null,null,null)
-B.UD=new A.et(B.a_3,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
+B.ZX=new A.aV("Erro ao enviar a foto",null,null,null,null,null,null,null,null)
+B.UC=new A.et(B.ZX,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
+B.a_2=new A.aV("Perfil atualizado com sucesso",null,null,null,null,null,null,null,null)
+B.UD=new A.et(B.a_2,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
 B.a_B=new A.aV("An\xfancio e imagens removidos com sucesso.",null,null,null,null,null,null,null,null)
 B.UE=new A.et(B.a_B,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
 B.a_L=new A.aV("Voc\xea precisa estar logado para ver seu perfil.",null,null,null,null,null,null,null,null)
@@ -107288,12 +107288,12 @@ B.a_V=new A.aV("Fa\xe7a login para cadastrar um an\xfancio.",null,null,null,null
 B.UJ=new A.et(B.a_V,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
 B.a_p=new A.aV("Preencha todos os campos.",null,null,null,null,null,null,null,null)
 B.BN=new A.et(B.a_p,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
-B.a_7=new A.aV("Voc\xea precisa estar logado para ver seus an\xfancios.",null,null,null,null,null,null,null,null)
-B.UK=new A.et(B.a_7,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
+B.a_6=new A.aV("Voc\xea precisa estar logado para ver seus an\xfancios.",null,null,null,null,null,null,null,null)
+B.UK=new A.et(B.a_6,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
 B.a_G=new A.aV("\xc9 necess\xe1rio estar logado para publicar.",null,null,null,null,null,null,null,null)
 B.UL=new A.et(B.a_G,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
-B.a_5=new A.aV("Informe o nome para exibi\xe7\xe3o.",null,null,null,null,null,null,null,null)
-B.UM=new A.et(B.a_5,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
+B.a_4=new A.aV("Informe o nome para exibi\xe7\xe3o.",null,null,null,null,null,null,null,null)
+B.UM=new A.et(B.a_4,null,null,null,null,null,null,null,null,null,null,null,null,B.ay,null,null,null,B.A,null)
 B.BO=new A.EI(0,"permissive")
 B.UN=new A.EI(1,"normal")
 B.UO=new A.EI(2,"forced")
@@ -107671,29 +107671,29 @@ B.YZ=new A.r(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.VS=new A.r(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.ZV=new A.eu(B.XG,B.WG,B.XH,B.Yf,B.Wi,B.Wp,B.WZ,B.Y3,B.Xb,B.YJ,B.VK,B.W_,B.YD,B.YZ,B.VS)
 B.ZW=new A.aV("Nome",null,null,null,null,null,null,null,null)
-B.ZX=new A.aV("1.0.20",null,null,null,null,null,null,null,null)
-B.a__=new A.aV("Entrar como visitante",null,null,null,null,null,null,null,null)
-B.a_0=new A.aV("Excluir imagem?",null,null,null,null,null,null,null,null)
-B.a_1=new A.aV("Minha Conta",null,null,null,null,null,null,null,null)
+B.ZZ=new A.aV("Entrar como visitante",null,null,null,null,null,null,null,null)
+B.a__=new A.aV("Excluir imagem?",null,null,null,null,null,null,null,null)
+B.a_0=new A.aV("Minha Conta",null,null,null,null,null,null,null,null)
 B.Cd=new A.aV("An\xfancios Seguidos",null,null,null,null,null,null,null,null)
-B.a_2=new A.aV("Entrar",null,null,null,null,null,null,null,null)
+B.a_1=new A.aV("Entrar",null,null,null,null,null,null,null,null)
 B.Cb=new A.r(!0,null,null,null,null,null,18,B.bt,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a_4=new A.aV("Anunciante",null,B.Cb,null,null,null,null,null,null)
-B.a_6=new A.aV("Deseja realmente excluir esta imagem?",null,null,null,null,null,null,null,null)
-B.a_8=new A.aV("E-mail",null,null,null,null,null,null,null,null)
-B.a_9=new A.aV("Seu nome no app",null,null,null,null,null,null,null,null)
+B.a_3=new A.aV("Anunciante",null,B.Cb,null,null,null,null,null,null)
+B.a_5=new A.aV("Deseja realmente excluir esta imagem?",null,null,null,null,null,null,null,null)
+B.a_7=new A.aV("E-mail",null,null,null,null,null,null,null,null)
+B.a_8=new A.aV("Seu nome no app",null,null,null,null,null,null,null,null)
 B.Cf=new A.aV("Perfil",null,null,null,null,null,null,null,null)
-B.a_a=new A.aV("Editar An\xfancio",null,null,null,null,null,null,null,null)
-B.a_b=new A.aV("Sair",null,null,null,null,null,null,null,null)
-B.a_c=new A.aV("Selecionar novas imagens",null,null,null,null,null,null,null,null)
-B.a_d=new A.aV("WhatsApp",null,null,null,null,null,null,null,null)
-B.a_e=new A.aV("Fazer Login",null,null,null,null,null,null,null,null)
-B.a_f=new A.aV("Nenhum contato p\xfablico dispon\xedvel.",null,null,null,null,null,null,null,null)
-B.a_g=new A.aV("Novo An\xfancio",null,null,null,null,null,null,null,null)
-B.a_i=new A.aV("Ver Contato",null,null,null,null,null,null,null,null)
+B.a_9=new A.aV("Editar An\xfancio",null,null,null,null,null,null,null,null)
+B.a_a=new A.aV("Sair",null,null,null,null,null,null,null,null)
+B.a_b=new A.aV("Selecionar novas imagens",null,null,null,null,null,null,null,null)
+B.a_c=new A.aV("WhatsApp",null,null,null,null,null,null,null,null)
+B.a_d=new A.aV("Fazer Login",null,null,null,null,null,null,null,null)
+B.a_e=new A.aV("Nenhum contato p\xfablico dispon\xedvel.",null,null,null,null,null,null,null,null)
+B.a_f=new A.aV("Novo An\xfancio",null,null,null,null,null,null,null,null)
+B.a_h=new A.aV("Ver Contato",null,null,null,null,null,null,null,null)
 B.Cg=new A.aV("Cancelar",null,null,null,null,null,null,null,null)
-B.a_j=new A.aV("Quais dados deseja mostrar nos an\xfancios?",null,B.cN,null,null,null,null,null,null)
-B.a_k=new A.aV("Vers\xe3o",null,null,null,null,null,null,null,null)
+B.a_i=new A.aV("Quais dados deseja mostrar nos an\xfancios?",null,B.cN,null,null,null,null,null,null)
+B.a_j=new A.aV("Vers\xe3o",null,null,null,null,null,null,null,null)
+B.a_l=new A.aV("1.0.20r",null,null,null,null,null,null,null,null)
 B.a_o=new A.aV("Confirmar exclus\xe3o",null,null,null,null,null,null,null,null)
 B.a_q=new A.aV("Deseja realmente excluir este an\xfancio? Esta a\xe7\xe3o n\xe3o pode ser desfeita.",null,null,null,null,null,null,null,null)
 B.a_r=new A.aV("Este an\xfancio foi atualizado.",null,null,null,null,null,null,null,null)
