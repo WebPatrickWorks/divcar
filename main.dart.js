@@ -45296,11 +45296,14 @@ m=p.a
 l=t.N
 s=3
 return A.n(n.iQ(0,A.W(["remetente_id",m.c,"destinatario_id",m.d,"mensagem",j],l,l)),$async$qN)
-case 3:o=o.aU("notificacoes_diretas")
-m=p.a
-s=4
-return A.n(o.iQ(0,A.W(["usuario_id",m.d,"remetente_id",m.c,"mensagem",j],l,l)),$async$qN)
-case 4:k.oD(0,B.Cm)
+case 3:n=p.a
+s=n.d!==n.c?4:5
+break
+case 4:o=o.aU("notificacoes_diretas")
+n=p.a
+s=6
+return A.n(o.iQ(0,A.W(["usuario_id",n.d,"remetente_id",n.c,"mensagem",j],l,l)),$async$qN)
+case 6:case 5:k.oD(0,B.Cm)
 k=p.c
 k.toString
 A.Oe(k).hy()
@@ -45353,9 +45356,10 @@ r=J.a6(r,"nome_exibicao")
 n=A.e2(A.b([n,B.iT,A.fv(A.aW(r==null?"Usu\xe1rio":r,p,B.aw,p,p,p,p))],t.p),B.N,B.B,B.P)}s=t.p
 return A.fB(A.hY(p,p,n),p,A.dn(A.b([A.fv(A.aJz(new A.auc(q),p,q.F6(),t.b5)),B.oP,new A.bu(B.cI,A.e2(A.b([A.fv(A.dG(q.d,B.pM,p,p,p,1,!1,new A.aud(q))),A.ib(p,p,p,B.pC,p,p,q.gaaE(),p,p,p,p)],s),B.N,B.B,B.P),p)],s),B.N,B.B,B.P),p,p,p)}}
 A.au8.prototype={
-$0(){var s=this.a.f,r=B.b.gc6(s.f).Q
+$0(){var s=this.a.f,r=s.f
+if(r.length!==0){r=B.b.gc6(r).Q
 r.toString
-s.eB(r)},
+s.eB(r)}},
 $S:12}
 A.auf.prototype={
 $1(a){var s=J.uh(a,new A.aue(this.a))
@@ -108683,7 +108687,7 @@ B.a0m=new A.aF("Mensagem",null,null,null,null,null,null,null,null)
 B.a0n=new A.aF("\ud83d\udce2 An\xfancios atualizados",null,B.bB,null,null,null,null,null,null)
 B.a0p=new A.aF("Website",null,null,null,null,null,null,null,null)
 B.CF=new A.aF("Chat",null,null,null,null,null,null,null,null)
-B.a0r=new A.aF("1.0.32",null,null,null,null,null,null,null,null)
+B.a0r=new A.aF("1.0.33",null,null,null,null,null,null,null,null)
 B.a0s=new A.aF("Salvar Altera\xe7\xf5es",null,null,null,null,null,null,null,null)
 B.a0t=new A.aF("Salvar altera\xe7\xf5es",null,null,null,null,null,null,null,null)
 B.CG=new A.aF("Minhas Conversas",null,null,null,null,null,null,null,null)
