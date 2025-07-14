@@ -3,12 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "e64e6ea01f1634f39928428109b45d34",
-"assets/AssetManifest.bin.json": "86bd1b310cb86f59a71bdbbe26c81415",
-"assets/AssetManifest.json": "a4fb0a75dd6c2c0128804d6755d0f924",
+const RESOURCES = {"assets/AssetManifest.bin": "fa04f89d120929056324e772eabca3d3",
+"assets/AssetManifest.bin.json": "60e0f6b99af2bffc784a715221798412",
+"assets/AssetManifest.json": "ac5b8c4c559346995e322d5d69477c75",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "000629889a9a612b46d36449399cad11",
-"assets/lib/assets/imagem_marker.png": "dbd83a3681f0c81b4f8f40f661e1623d",
+"assets/lib/assets/icones/automovel.png": "a28e03f172f6ea723086f2e78aaae3aa",
+"assets/lib/assets/icones/eletronico.png": "6b74086eefad84f51c183e86a957a765",
+"assets/lib/assets/icones/imovel.png": "ea611025c6bc04fd879cce8c04010380",
+"assets/lib/assets/icones/outro.png": "7c5aabf90cde71e4e0b67feef107cec8",
+"assets/lib/assets/icones/servico.png": "88754356c3ba5c7b3069f7a0a7f1727b",
 "assets/lib/assets/logo_divcar.png": "3a526901c9a5d7f4f27514c9b29253af",
 "assets/lib/assets/logo_divcar_escuro.png": "0019d4883d63f7e70d629b7e7302e512",
 "assets/NOTICES": "2908103b90476648a1fe43d6d66ab1fc",
@@ -281,14 +285,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "e64e6ea01f1634f39928428109b45d34
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "bbdaaf0a7e3001a1fa10cf939a9c934b",
+"flutter_bootstrap.js": "d370987f235e074cd2d6a0a1e1948ff5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "0ecde993cd609328c9cf42acafc5bbd5",
 "/": "0ecde993cd609328c9cf42acafc5bbd5",
-"main.dart.js": "dca6e4e22d8e4d0b83fdfcb6100ba709",
+"main.dart.js": "7d96b719822b8f06fbbac8716c55e9a0",
 "manifest.json": "e2a110c00a8f6670bd5bbdba0b9d1955",
 "version.json": "6593ada18df3e8399ac53c30baeae358"};
 // The application shell files that are downloaded before a service worker can
